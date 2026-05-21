@@ -1,0 +1,55 @@
+*{margin: 0; 
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    background-color: rgb(51, 51, 51);
+    color: white;
+    padding: 20px;
+}
+body {
+
+    background-color: rgb(0, 0, 0);
+}
+ button{ 
+    
+            padding: 12px 20px;
+            border: none;
+            background-color: #0077cc;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 32px;
+            transition: 0.3s;
+        }
+
+        button:hover{
+            background-color: #005fa3;
+        }
+        section{
+            height: 100vh;
+            padding: 50px;
+        }
+
+        #inicio{
+
+            background-color: rgb(34, 34, 34);
+        }
+
+        #deportes{
+            
+            background-color: #212b35;
+        }
+
+        #contacto{
+            background-color: #0f1350;
+        }
+        h2 {
+            color: white;
+            
+        }
+        p {
+            color: white;
+            
+        }
+       
